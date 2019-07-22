@@ -30,13 +30,26 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document Object Model allows you to access your document with Javscipt to add to, delete, edit, style, and structure your window element.
+
+
 2. What is an event?
+
+Event is how your browser reacts based on what you select. (click, drag, keydown, etc..)
 
 3. What is an event listener?
 
+EventListener waits and listens for the user to do what you chose as your event.
+The listener would be a function that reacts when the user 'clicks' an element.
+
+
 4. Why would we convert a NodeList into an Array?
 
+Converting the NodeList into an Array lets you iterate through the list. (e.g. Array.forEach(); and Array.map();) 
+
 5. What is a component?
+
+Components allow you to create custom and reusable tags.
 
 ### Git Set up
 
